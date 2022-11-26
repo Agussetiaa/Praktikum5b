@@ -1,7 +1,7 @@
 # praktikum 
 ## Latihan 1
 
-#### Buat Dictionary daftar kontak
+## Buat Dictionary daftar kontak
 - Nama sebagai key dan nomor sebagai value
 ![gambar](gambar/ss5.png)
 
