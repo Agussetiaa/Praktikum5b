@@ -2,11 +2,11 @@
 ## Latihan 1
 
 ## Buat Dictionary daftar kontak
-- Nama sebagai key dan nomor sebagai value
+#### - Nama sebagai key dan nomor sebagai value
 
 ![gambar](Gambar/ss5.png)
 
-- Tampilkan kontaknya ari
+#### - Tampilkan kontaknya ari
 
 ![gambar](Gambar/ss5a.png)
 
