@@ -11,7 +11,7 @@
 ![gambar](Gambar/ss5b.png)
 
 - Tambah kontak baru dengan nama Riko, nomor 087654544
-![gambar](Gambar.ssb1.png)
+![gambar](Gambar.ss5b1.png)
 - output
 ![gambar](Gambar/ss5b2.png)
 
