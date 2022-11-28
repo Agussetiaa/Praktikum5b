@@ -110,7 +110,7 @@
 ![gambar](Gambar/9.png)
 
 ### - jika kita menginputKan selain ada pada menu (t,u,h,c,l,k) maka kita diminta untuk memilih menu yang tersedia.
-![gambar](Gambar.10.png)
+![gambar](Gambar/10.png)
 
 
 
