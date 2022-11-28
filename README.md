@@ -86,7 +86,7 @@
 
 ![gambar](Gambar/a.png)
 
-### - Disini apabila kita menginputkan 't' maka kita akan diminta untuk menginputkan beberapa data, dan yang kita inputkan akan masuk ke dictionar 'data' yang sudah di buat dengan data 'nama' sebagai keys dan sisa nya sebagai values.
+### - Disini apabila kita menginputkan 't' maka kita akan diminta untuk menginputkan beberapa data, dan yang kita inputkan akan masuk ke dictionary 'data' yang sudah di buat dengan data 'nama' sebagai keys dan sisa nya sebagai values.
 ### # Membuat syntax untuk mengubah data.
 
 ![gambar](Gambar/4.png)
