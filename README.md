@@ -102,7 +102,7 @@
 ### - Apabila kita menginputkan 'l' maka sistem akan menampilkan data-data yang sudah di kita masukan. dan jika kita belum memasukan data maka outputnya akan menjadi "TIDAK ADA DATA".
 ### Membuat syntax untuk menghentikan perulangan.
 
-[gambar](Gambar/8.png)
+![gambar](Gambar/8.png)
 
 ### - Apabila kita menginputkan 'k' maka program akan langsung berhenti.
 ### Membuat syntax untuk apabila kita memilih pilihan yang tidak ada di menu.
