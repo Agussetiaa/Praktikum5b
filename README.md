@@ -120,7 +120,7 @@
 
 ### - output
 
-![gambar](Gambar/e.png)
+![gambar](Gambar/ee.png)
 
 ### - Apabila kita menginputkan 'l' maka sistem akan menampilkan data-data yang sudah di kita masukan. dan jika kita belum memasukan data maka outputnya akan menjadi "TIDAK ADA DATA".
 ### # Membuat syntax untuk menghentikan perulangan.
