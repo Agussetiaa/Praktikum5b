@@ -82,7 +82,7 @@
 
 ![gambar](Gambar/3.png)
 
-### = output
+### - output
 
 ![gambar](Gambar/a.png)
 
@@ -93,10 +93,9 @@
 
 ### - output
 
-1[gambar](Gambar/b.png)
+![gambar](Gambar/b.png)
 
-### - apabila kita menginput 'u' maka akan ada keterangan masukan data nama yang akan di ubah, jika tidak ada nama yang sudah di input, akan ada keterangan "Nama {}
- tidak ditemukan ". dimana {} adalah nama/data yang mau kita ubah.
+### - apabila kita menginput 'u' maka akan ada keterangan masukan data nama yang akan di ubah, jika tidak ada nama yang sudah di input, akan ada keterangan "Nama {} tidak ditemukan ". dimana {} adalah nama/data yang mau kita ubah.
 ### # Membuat syntax menghapus data
 
 ![gambar](Gambar/5.png)
