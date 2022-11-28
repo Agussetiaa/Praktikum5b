@@ -74,13 +74,13 @@
 
 ![gambar](Gambar/2.png)
 
-### - output
-
-![gambar](Gambar/a.png)
-
 ### # Membuat syntax untuk menambah data.
 
 ![gambar](Gambar/3.png)
+
+### = output
+
+![gambar](Gambar/a.png)
 
 ### - Disini apabila kita menginputkan 't' maka kita akan diminta untuk menginputkan beberapa data, dan yang kita inputkan akan masuk ke dictionar 'data' yang sudah di buat dengan data 'nama' sebagai keys dan sisa nya sebagai values.
 ### # Membuat syntax untuk membuat data.
