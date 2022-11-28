@@ -70,6 +70,10 @@
 
 ![gambar](Gambar/1.png)
 
+### - output
+
+![gambar](Gambar/x.png)
+
 ### # Kemudian kita membuat kondisi perulangan dan sebuah keterangan untuk pilihan menu yang akan menjalankan program.
 
 ![gambar](Gambar/2.png)
@@ -133,9 +137,7 @@
 
 ![gambar](Gambar/9.png)
 
+### - jika kita menginputkan selain ada pada menu (t,u,h,c,l,k) maka kita diminta untuk memilih menu yang tersedia.
 ### - output
 
-![gambar](Gambar/g.png)
-
-### - jika kita menginputkan selain ada pada menu (t,u,h,c,l,k) maka kita diminta untuk memilih menu yang tersedia.
 ![gambar](Gambar/10.png)
