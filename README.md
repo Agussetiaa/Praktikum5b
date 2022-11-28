@@ -70,13 +70,13 @@
 
 ![gambar](Gambar/1.png)
 
-### - output
-
-![gambar](Gambar/x.png)
-
 ### # Kemudian kita membuat kondisi perulangan dan sebuah keterangan untuk pilihan menu yang akan menjalankan program.
 
 ![gambar](Gambar/2.png)
+
+### - output
+
+![gambar](Gambar/x.png)
 
 ### # Membuat syntax untuk menambah data.
 
