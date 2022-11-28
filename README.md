@@ -74,6 +74,10 @@
 
 ![gambar](Gambar/2.png)
 
+### - output
+
+![gambar](Gambar/a.png)
+
 ### # Membuat syntax untuk menambah data.
 
 ![gambar](Gambar/3.png)
@@ -83,31 +87,55 @@
 
 ![gambar](Gambar/4.png)
 
+### - output
+
+1[gambar](Gambar/b.png)
+
 ### - apabila kita menginput 'u' maka akan ada keterangan masukan data nama yang akan di ubah, jika tidak ada nama yang sudah di input, akan ada keterangan "Nama {}
  tidak ditemukan ". dimana {} adalah nama/data yang mau kita ubah.
 ### # Membuat syntax menghapus data
 
 ![gambar](Gambar/5.png)
 
+### - output
+
+![gambar](Gambar/c.png)
+
 ### - apabila kita menginputkan 'h' maka kita diminta untuk menginputkan nama yang akan dihapus. jika nama ada didalam Dictionary , maka system  makan menghapus keys/nama tersebut berserta valuesnya pada statement del data[nama].
 ### # Membuat syntax untuk mencari data.
 
 ![gambar](Gambar/6.png)
+
+### - output
+
+![gambar](Gambar/d.png)
 
 ### - Apabila kita menginputkan 'c' maka kita akan diminta mamasukan nama yang akan dicari, dan apabila nama yang dicari ada didalam dictionary outputnya akan menampilkan data dari nama tersebut.
 ### # Membuat syntax untuk melihat/menampilkan data.
 
 ![gambar](Gambar/7.png)
 
+### - output
+
+![gambar](Gambar/e.png)
+
 ### - Apabila kita menginputkan 'l' maka sistem akan menampilkan data-data yang sudah di kita masukan. dan jika kita belum memasukan data maka outputnya akan menjadi "TIDAK ADA DATA".
 ### # Membuat syntax untuk menghentikan perulangan.
 
 ![gambar](Gambar/8.png)
 
+### - output
+
+![gambar](Gambar/f.png)
+
 ### - Apabila kita menginputkan 'k' maka program akan langsung berhenti.
 ### # Membuat syntax untuk apabila kita memilih pilihan yang tidak ada di menu.
 
 ![gambar](Gambar/9.png)
+
+### - output
+
+![gambar](Gambar/g.png)
 
 ### - jika kita menginputkan selain ada pada menu (t,u,h,c,l,k) maka kita diminta untuk memilih menu yang tersedia.
 ![gambar](Gambar/10.png)
