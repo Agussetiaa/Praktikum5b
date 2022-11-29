@@ -146,4 +146,4 @@
 
 ### flowchart nya 
 
-![gambar](IMG-20221129-WA0002.jpg)
+![gambar](IMG-20221129-WA0005.jpg)
