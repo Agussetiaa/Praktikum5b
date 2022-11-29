@@ -143,3 +143,7 @@
 ### - output
 
 ![gambar](Gambar/10.png)
+
+### flowchart nya 
+
+![gambar](IMG-20221129-WA0002.jpg)
